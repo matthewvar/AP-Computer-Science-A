@@ -1,0 +1,4 @@
+"C:\\Documents and Settings\\bwagner\\Desktop\\DepartmentStore\\DailyTransactions.java"
+"C:\\Documents and Settings\\bwagner\\Desktop\\DepartmentStore\\DepartmentStore.java"
+"C:\\Documents and Settings\\bwagner\\Desktop\\DepartmentStore\\Sale.java"
+"C:\\Documents and Settings\\bwagner\\Desktop\\DepartmentStore\\Transaction.java"
